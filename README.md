@@ -29,4 +29,5 @@ Para acessar o dashbord através da interface web, adicione o ip da máquina:
 Insira um usuário e senha válidos para logar no painel. 
 
 ---
-### Este é o site  do projeto [COCKPIT](https://cockpit-project.org/)
+
+### Para mais detlhes de como configurar o cockpit, acesse o site official do projeto clicando em [COCKPIT](https://cockpit-project.org/)
