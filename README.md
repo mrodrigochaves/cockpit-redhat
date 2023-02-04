@@ -24,9 +24,9 @@ Para acessar o dashbord através da interface web, adicione o ip da máquina:
 `https://ENDERECO_IP_DA_MAQUINA:9090`
 
 
-![Dashboard Cockpit](/cockpit-redhat.jpp "Dashboard Cockpit")
 
-Insira um usuário e senha válidos para logan no painel. 
+![Cockpit Red Hat Painel](/cockpit-redhat.jpg)
+Insira um usuário e senha válidos para logar no painel. 
 
 ---
 ### Este é o site  do projeto [COCKPIT](https://cockpit-project.org/)
